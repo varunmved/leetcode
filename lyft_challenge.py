@@ -57,6 +57,7 @@ def calcLength(startLat,startLong,endLat,endLong):
 	base = eLat - sLat
 	height = eLong - sLong
 
+	#find length of unkown side, hella math yo
 	vectorLen = sqrt(base*base + height*height)
 	return vectorLen
 
