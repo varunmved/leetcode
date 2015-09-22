@@ -1,3 +1,7 @@
+/*
+lol this isn't even python you noob
+*/
+
 #include <stdio>
 #include <stl>
 using namespace std;
